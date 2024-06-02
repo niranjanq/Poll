@@ -1,5 +1,5 @@
 <header>
-    <img src="/src/images/logo.png" alt="poll logo here">
+    <img src="../src/images/logo.png" alt="logo here">
     <h1>Vote Here</h1>
 </header>
 <style>
