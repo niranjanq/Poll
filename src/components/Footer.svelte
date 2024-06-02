@@ -1,5 +1,5 @@
 <footer>
-  <div class="copyright">Copyright @Niranjan</div>
+  <div class="copyright">Copyright @iranjan</div>
 </footer>
 
 <style>
