@@ -1,5 +1,11 @@
+<script>
+  const CurrentDate = new Date();
+  const Year=CurrentDate.getFullYear();
+</script>
+
+
 <footer>
-  <div class="copyright">Copyright @Niranjan</div>
+  <div class="copyright">Copyright @{Year}</div>
 </footer>
 
 <style>
