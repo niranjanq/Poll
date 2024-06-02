@@ -1,6 +1,9 @@
 <header>
-    <img src="../src/images/logo.png" alt="logo here">
-    <h1>Vote Here</h1>
+    <h1>
+        Poll Here
+    </h1>
+    <!-- <img src="../images/logo.png" alt="logo here"> -->
+    <!-- <h1>Vote Here</h1> -->
 </header>
 <style>
 header{
@@ -14,9 +17,9 @@ h1{
     margin:0;
     text-align: center;
 }
-img{
+/* img{
     max-width: 150px;
     text-align: center;
     border-radius: 50%;
-}
+} */
 </style>
